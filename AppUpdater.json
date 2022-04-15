@@ -1,10 +1,1 @@
-{
-  "latestVersion": "2.0.2",
-  "latestVersionCode": 28,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
-  "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  ]
-}
+{"newVersion": "2.0.2","apkUrl": "www.google.com","versionNotes":"notemo"}
